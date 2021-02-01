@@ -9,6 +9,6 @@ def credit():
     produit = int(input("Vous avez achetez un produit coûtant: "))
     reste = argent - produit
 
-    print("suite à votre achat d'un produit de ",produit,"€, il vous reste: "+ str(reste))
+    print("suite à votre achat d'un produit de ",produit,"€, il vous reste: "+ str(reste),"€ sur votre compte.")
 
 credit()

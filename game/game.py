@@ -4,7 +4,7 @@ from model.weapon import  Weapon
 
 knife = Weapon("knife",4)
 
-player = Player("yassin",26,3)
+player = Player("Héro",26,3)
 player.set_weapon(knife)
 warrior = Warrior("DarkWarrior",18,5)
 
