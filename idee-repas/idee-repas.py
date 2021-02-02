@@ -13,8 +13,10 @@ def generate_meals():
             file.close()
     else:
         with open("meals.txt","w+") as file:
-            meals_list = ["Poivron farci\n","Spagheti bolognese\n","Nouilles sautees\n","Burger frite\n","Pizza\n","Lasagne\n"]
-            file.write(meals_list)
+            meals_list = ["Poivron farci","Spagheti bolognese","Nouilles sautees","Burger frite","Pizza","Lasagne","Saumon","Steack"]
+            for meals in meals_list:
+                file.write(meals+"\n")
+
             file.close()
 
         with open("meals.txt","r+") as file:
