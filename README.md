@@ -6,6 +6,8 @@ Ce dossier comptient une serie d'exercices codés en Python dont:
   - Un petit jeux "juste prix": l'application crée un chiffre entre 1 et 1000 et demande à l'utilisateur de le deviner en lui envoyant des messages "trop petit/trop grand"
   - Fonction compte-bancaire: l'application calcule simplement la différence entre 2 chiffres entré par l'utilisateur, dans une fonction simulant l'achat d'un produit.
   - Game: petite simulation d'un jeu de rôle avec un protagoniste, un antagoniste, des classes, des arme etc...
+  - Idée repas: petite application qui vous conseil un repas selectionné au hazard depuis une liste de repas préalablement écrite... (capture d'ecran plus bas)
+  
   
 
 ## Commencer
