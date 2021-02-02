@@ -22,6 +22,6 @@ Ensuite ouvrez-le en copiant le chemin du fichier sur le terminal.
 
 ## Photo de l'application idée repas:
 
-![image](https://github.com/Makraiyassin/)
+![image](https://github.com/Makraiyassin/Exercices-python/blob/main/idee-repas/idee-repas.png)
 
 
